@@ -35,13 +35,6 @@
         "permission": "add event"
       }
     ]
-  },
-  "user": {
-   "ivanov": {
-      "update": {
-        "status": "OK" 
-      }
-   }
   }
   
 }
