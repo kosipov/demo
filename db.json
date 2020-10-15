@@ -37,11 +37,14 @@
     ]
   },
   "user": {
-   "ivanov": [{
-      "update": {
-        "status": "OK" 
-      }
-   }]
+    [
+     {
+       "id": "ivanov",
+        "update": {
+          "status": "OK" 
+        }
+     }
+   ]
   }
   
 }
